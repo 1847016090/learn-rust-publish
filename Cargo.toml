@@ -1,6 +1,6 @@
 [package]
 name = "learn-rust-publish"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 email = "1847016090@qq.com"
 description = "learn how to publish rust library"
